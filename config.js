@@ -39,12 +39,12 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ JOKOBOTZ ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['6282267244743', 'JOKO', true],
+['6285761766620', 'JOKO', true],
 ['6282267244743', 'JOKO', true]
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '6282267244743'
+global.nomorbot = '6285761766620'
 global.nomorown = '6282267244743'
 global.nomorown1 = '6282267244743'
 global.nomorown2 = '6282267244743'
@@ -56,7 +56,7 @@ global.nomorwa = '0'
 global.readMore = readMore
 global.author = 'Created By Aldi'
 global.namebot = 'JOKOBOTZ'
-global.wm = '© JOKOGANTENGKAN'
+global.wm = '© JOKOGANTENG'
 global.media = 'https://telegra.ph/file/5d45a3d1e12726d98c5e4.jpg'
 global.watermark = wm
 global.wm2 = 'JOKOOOO '
